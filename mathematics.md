@@ -27,7 +27,7 @@ $` \frac{1}{4} , \frac{12}{5} , -\frac{3}{5}  `$
 ### Irrational Numbers
 Irrational numbers are values that on the number line from negative $`\infty`$ to positive $`\infty`$, but cannot be represented as a ratio of integers.
 
-$` \sqrt{2} `$, any $`\sqrt{n}[3]`$ where n is not the cubed root of a rational number, $` \pi `$, $`e`$
+$` \sqrt{2} `$, any $`\sqrt[3]{n}`$ where n is not the cubed root of a rational number, $` \pi `$, $`e`$
 
 ### Real Numbers
 Real numbers are all rational and irrational numbers.
