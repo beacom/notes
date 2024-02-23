@@ -2,7 +2,7 @@
 
 ## Algebra
 
-This section draws heavily from Prelude to Calculus by Warren L. Rudd and Terry L. Shell.
+This section draws heavily from _Prelude to Calculus_ by Warren L. Rudd and Terry L. Shell.
 
 ### Integers
 Integers are all non-fractional values.
