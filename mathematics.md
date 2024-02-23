@@ -18,4 +18,4 @@ Whole numbers are all non-negative integers.
 
 ### Rational Numbers
 Rational numbers are all numbers that can be expressed as a ratio of integers.
-$` /frac{1}{4} , /frac{12}{5} , -/frac{3}{5}  `$
+$` \frac{1}{4} , \frac{12}{5} , -\frac{3}{5}  `$
