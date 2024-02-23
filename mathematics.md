@@ -5,7 +5,7 @@
 This section draws heavily from Prelude to Calculus by Warren L. Rudd and Terry L. Shell.
 
 ### Integers
-Integers are all non-fractional values.
+Integers are all non-fractional values.\n
 ...-3, -2, -1, 0, 1, 2, 3...
 
 ### Natural Numbers
