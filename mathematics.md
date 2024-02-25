@@ -31,3 +31,11 @@ $` \sqrt{2} `$, any $`\sqrt[3]{n}`$ where n is not the cubed root of a rational 
 
 ### Real Numbers
 Real numbers are all rational and irrational numbers.
+
+### Exponents
+If _b_ is a real number and _n_ is an integer where a value _n_ > 0, then
+
+b^n = _b_ $` /mult `$ _b_ $` /mult `$ _b_ $` /mult `$ _b_ $` /mult `$ _b_ ... _b_ $` /mult `$ _b_
+
+with _n_ instances of _b_.
+
