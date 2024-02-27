@@ -47,6 +47,17 @@ $$ |a| =
     \end{cases}
 $$
 
-### Exponents
-If _b_ is a real number and _n_ is an integer with a value where _n_ > 0, then $` b^{n}`$ = $` b \times b \times b \times b \times b ... b \times b`$ with _n_ instances of _b_.
+#### Distance
 
+The distance between two real numbers a and b is: $` |a - b| = |b - a| `$
+
+### Exponents
+If _b_ is a real number and _n_ is an integer with a value where _n_ > 0, then $` b^{n}`$ = $` b \times b \times b \times b \times b \dotsb b \times b`$ with _n_ instances of _b_.
+
+#### Properties of Exponents
+
+If a and b are real numbers and n and m are integers, then:
+
+$$
+a^{m}a^{n}=a^{m+n}
+$$
