@@ -65,3 +65,11 @@ $$
 $$
 \frac{a^{m}}{a^{n}} = a^{m - n}
 $$
+
+$$
+(ab)^{n} = a^{n}b^{n}
+$$
+
+$$
+\binom{a}{b}^{n} = \frac{a^{n}}{b^{n}} & \quad \text{where} b \neq 0
+$$
