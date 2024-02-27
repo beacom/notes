@@ -61,6 +61,7 @@ If a and b are real numbers and n and m are integers, then:
 $$
 a^{m}a^{n} = a^{m+n}
 $$
+
 $$
 \frac{a^{m}}{a^{n}} = a^{m - n}
 $$
