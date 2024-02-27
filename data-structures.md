@@ -44,7 +44,7 @@ An infinite set is uncountable if its elements cannot be put into a one-tp-one m
 
 The Cartesian product of two sets A and B, denoted by $` A \times B `$, is the set of all ordered pairs such that the first element of the pair is an element of A and the second element of the pair is an element of B.
 
-$` A \times B = {(a, b): a \in  A and b \in B} `$
+$` A \times B = {(a, b): a \in  A  \space and \space b \in B} `$
 
 ### Binary Relation
 
