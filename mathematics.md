@@ -71,5 +71,5 @@ $$
 $$
 
 $$
-\binom{a}{b}^{n} = \frac{a^{n}}{b^{n}} \quad \text{where} b \neq 0
+\binom{a}{b}^{n} = \frac{a^{n}}{b^{n}} \quad \text{where} \quad b \neq 0
 $$
