@@ -59,3 +59,38 @@ Graphs are collections of related vertices and edges. Theses collections are kno
 A directed graph is a collection of vertices and edges where the vertex set is a finite set and the edge set is a binary relation on the vertex set. Which is to say that, the edges specify an source vertex and target vertex. 
 
 Self-loops, an edge from one vertex to the same vertex, are permissable.
+
+### Undirected Graph
+
+An undirected graph is a graph wherein the edges have no concept of source and target vertex. Two verticies have are connected or not with no directionality.
+
+### Incident Edges
+
+In directed graphs, we can say that an edge is _incident from_ the source vertex and and _incident to_ the target vertex. It can alternative be said, an edge leaves the source vertex and enters the target vertex. In an undirected graph, an edge can be said to be _incident on_ a pair of vertices.
+
+### Neighbors
+
+A neighbor of a vertex is any other vertex connected by an edge. In a directed graph neighbor status is irrespective of directionality of the edge.
+
+### Adjacency
+
+In an undirected graph two vertices are adjacent if they are neighbors and the adjacency relationship is symmetric.
+
+In a directed graph the adjacency relationship need not be symmetric. A vertex A is adjacent to vertex B if there is an edge incident from vertex B that is incident to vertex A.
+
+### In-Degree
+
+In a directed graph the in-degree is the number of edges incident on it.
+
+### Out-Degree
+
+In a directed graph the out-degree is the number of edges incident from it.
+
+### Degree
+
+In an undirected graph the degree of a vertex is the number of edges incident on it.
+
+The degree of a directed graph is the sum of its in-degree and out-degree.
+
+
+
