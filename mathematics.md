@@ -42,8 +42,8 @@ The absolute value of a real number is the magnitude of the number from the orig
 
 $$ \[|a| =  
     \begin{cases}
-      a & \quad if a \geq 0 \\
-      -a & \quad if a < 0
+      a & \quad \text{if a} \geq 0 \\
+      -a & \quad \text{if a} < 0
     \end{cases}
    \]
 $$
