@@ -5,29 +5,29 @@
 This section draws heavily from _Prelude to Calculus_ by Warren L. Rudd and Terry L. Shell.
 
 ### Integers
-Integers are all non-fractional values.
+The integers are all non-fractional values.
 
 $`\dots -3, -2, -1, 0, 1, 2, 3 \cdots `$
 
 ### Natural Numbers
-Natural numbers are all positive integers. Zero is often included in the set of natural numbers, notably by Cormen, Leiserson, & Rivest in Introduction to Algorithms. Doing so makes the definition equivalent to that of the whole numbers below.
+The natural numbers are all positive integers. Zero is often included in the set of natural numbers, notably by Cormen, Leiserson, & Rivest in Introduction to Algorithms. Doing so makes the definition equivalent to that of the whole numbers below.
 
 $` 1, 2, 3, 4, 5 \cdots `$
 
 ### Whole Numbers
-Whole numbers are all non-negative integers.
+The whole numbers are all non-negative integers.
 
 $` 0, 1, 2, 3, 4 \cdots `$
 
 ### Rational Numbers
-Rational numbers are all numbers that can be expressed as a ratio of integers. An infinite number of rational numbers exist between any two rational numbers.
+The rational numbers are all numbers that can be expressed as a ratio of integers. An infinite number of rational numbers exist between any two rational numbers.
 
 $` \frac{1}{4} , \frac{12}{5} , -\frac{3}{5}  `$
 
 The decimal representation of a rational number either terminates or eventually repreats.
 
 ### Irrational Numbers
-Irrational numbers are values that on the number line from negative $`\infty`$ to positive $`\infty`$, but cannot be represented as a ratio of integers.
+The irrational numbers are values that on the number line from negative $`\infty`$ to positive $`\infty`$, but cannot be represented as a ratio of integers.
 
 $` \sqrt{2} `$, any $`\sqrt[3]{n}`$ where n is not the cubed root of a rational number, $` \pi `$, $`e`$
 
