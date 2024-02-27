@@ -50,6 +50,10 @@ $` A \times B = {(a, b): a \in  A  \space and \space b \in B} `$
 
 A binary relation is a subset of the Cartesian product of two sets. For a binary relation R where $` (a, b) \in R `$, the binary relation can be denoted as: $` aRb `$
 
+## Sequences
+
+A sequence is an ordered collection of elements.
+
 ## Graphs
 
 Graphs are collections of related vertices and edges. Theses collections are known as the vertex set and edge set.
@@ -92,5 +96,23 @@ In an undirected graph the degree of a vertex is the number of edges incident on
 
 The degree of a directed graph is the sum of its in-degree and out-degree.
 
+### Path
 
+A path is a sequence of vertices for which there exist incident edges that allow traversal from the first vertex in the sequence to the last.
+
+#### Path Length
+
+The length of a path is the number of incident edges required to traverse the path.
+
+#### Reachable
+
+Vertex B is reachable from vertex A if there is a path from A to B.
+
+#### Simple
+
+A path is simple if all of the verticies in the path are distinct.
+
+#### Subpath
+
+A subpath of a path is a contiguous subsequence of the vertices in the path.
 
