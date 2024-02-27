@@ -40,13 +40,13 @@ Real numbers are all rational and irrational numbers.
 
 The absolute value of a real number is the magnitude of the number from the origin.
 
-$` \[|a| =  
+$$ \[|a| =  
     \begin{cases}
       a if a 
       -a if a < 0
     \end{cases}
    \]
-`$
+$$
 
 ### Exponents
 If _b_ is a real number and _n_ is an integer with a value where _n_ > 0, then $` b^{n}`$ = $` b \times b \times b \times b \times b ... b \times b`$ with _n_ instances of _b_.
