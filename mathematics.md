@@ -12,12 +12,12 @@ $`\dots -3, -2, -1, 0, 1, 2, 3 \dots `$
 ### Natural Numbers
 Natural numbers are all positive integers. Zero is often included in the set of natural numbers, notably by Cormen, Leiserson, & Rivest in Introduction to Algorithms. Doing so makes the definition equivalent to that of the whole numbers below.
 
-1, 2, 3, 4, 5...
+$` 1, 2, 3, 4, 5 \dots `$
 
 ### Whole Numbers
 Whole numbers are all non-negative integers.
 
-0, 1, 2, 3, 4...
+$` 0, 1, 2, 3, 4 \dots `$
 
 ### Rational Numbers
 Rational numbers are all numbers that can be expressed as a ratio of integers. An infinite number of rational numbers exist between any two rational numbers.
