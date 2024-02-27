@@ -59,6 +59,8 @@ If _b_ is a real number and _n_ is an integer with a value where _n_ > 0, then $
 If a and b are real numbers and n and m are integers, then:
 
 $$
-a^{m}a^{n} = a^{m+n}\\
+a^{m}a^{n} = a^{m+n}
+$$
+$$
 \frac{a^{m}}{a^{n}} = a^{m - n}
 $$
