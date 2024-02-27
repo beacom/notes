@@ -40,12 +40,11 @@ Real numbers are all rational and irrational numbers.
 
 The absolute value of a real number is the magnitude of the number from the origin.
 
-$$ \[|a| =  
+$$ |a| =  
     \begin{cases}
       a & \quad \text{if a} \geq 0 \\
       -a & \quad \text{if a} < 0
     \end{cases}
-   \]
 $$
 
 ### Exponents
