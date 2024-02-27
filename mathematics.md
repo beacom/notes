@@ -7,7 +7,7 @@ This section draws heavily from _Prelude to Calculus_ by Warren L. Rudd and Terr
 ### Integers
 Integers are all non-fractional values.
 
-...-3, -2, -1, 0, 1, 2, 3...
+$`\dots -3, -2, -1, 0, 1, 2, 3 \dots `$
 
 ### Natural Numbers
 Natural numbers are all positive integers. Zero is often included in the set of natural numbers, notably by Cormen, Leiserson, & Rivest in Introduction to Algorithms. Doing so makes the definition equivalent to that of the whole numbers below.
