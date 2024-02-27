@@ -73,3 +73,7 @@ $$
 $$
 \binom{a}{b}^{n} = \frac{a^{n}}{b^{n}} \quad \text{where} \quad b \neq 0
 $$
+
+$$
+(a^{m})^{n} = a^{mn}
+$$
