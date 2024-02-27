@@ -40,6 +40,16 @@ An infintie set is countably infinite if its elements can be put into a one-to-o
 
 An infinite set is uncountable if its elements cannot be put into a one-tp-one mapping to the natural number.
 
+### Cartesian Product
+
+The Cartesian product of two sets A and B, denoted by $` A \times B `$, is the set of all ordered pairs such that the first element of the pair is an element of A and the second element of the pair is an element of B.
+
+$` A \times B = {(a, b): a \in  A and b \in B} `$
+
+### Binary Relation
+
+A binary relation is a subset of the Cartesian product of two sets. For a binary relation R where $` (a, b) \in R `$, the binary relation can be denoted as: $` aRb `$
+
 ## Graphs
 
 Graphs are collections of related vertices and edges. Theses collections are known as the vertex set and edge set.
