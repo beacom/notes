@@ -71,7 +71,7 @@ $$
 $$
 
 $$
-\left \frac{a}{b} \right ^{n} = \frac{a^{n}}{b^{n}} \quad \text{where} \quad b \neq 0
+\left(\frac{a}{b} \right)^{n} = \frac{a^{n}}{b^{n}} \quad \text{where} \quad b \neq 0
 $$
 
 $$
