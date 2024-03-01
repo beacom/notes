@@ -12,7 +12,7 @@
 
 `git branch --delete  local-branch-name`
 
-## Merging Specific Fils From Another Branch
+## Merging Specific Files From Another Branch
 
 [original source](https://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
 
