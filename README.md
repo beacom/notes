@@ -10,6 +10,8 @@ A collection of notes on various subjects for easy access anywhere with GitHub a
 
 [Git](git.md)
 
+[Latin](latin.md)
+
 [Mathematics](mathematics.md)
 
 [PostgreSQL](postgresql.md)
