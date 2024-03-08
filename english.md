@@ -1,5 +1,12 @@
 # English
 
+A collection of interesting English words encountered while reading and their definitions.
+
+## A
+
+### abstruse
+difficult to understand
+
 ## I
 
 ### iatrogenic 
