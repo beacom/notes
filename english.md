@@ -21,3 +21,8 @@ a naive person
 
 ### peccadillo
 a small sin
+
+## S
+
+### sophistry
+a plausible but misleading or bogus argument
