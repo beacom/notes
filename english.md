@@ -26,3 +26,8 @@ a small sin
 
 ### sophistry
 a plausible but misleading or bogus argument
+
+## W
+
+### waif
+a homeless person, especially a cast out person or orphan
