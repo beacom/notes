@@ -9,3 +9,8 @@ unintentionally induced, for example a negative outcome induced by a medical pro
 
 ### naïf 
 a naive person
+
+## P
+
+### peccadillo
+a small sin
