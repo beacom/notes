@@ -89,5 +89,11 @@ $$
 $$
 
 $$
-\sqrt[n]{\frac{a}{b}}
+\sqrt[n]{\frac{a}{b}} = \frac{\sqrt[n]{a}}{\sqrt[n]{b}} \quad \text{where} \quad b \neq 0
 $$
+
+$$
+\sqrt[m]{\sqrt[n]{a}} = \sqrt[mn]{a}
+$$
+
+If _n_ is and odd integer, then $`\sqrt[n]{-a} = -\sqrt[n]{a}`$
