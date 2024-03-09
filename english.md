@@ -7,6 +7,11 @@ A collection of interesting English words encountered while reading and their de
 ### abstruse
 difficult to understand
 
+## E
+
+### epiphenomenon
+a secondary phenomenon caused by another phenomenon
+
 ## I
 
 ### iatrogenic 
