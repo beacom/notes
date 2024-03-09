@@ -89,5 +89,5 @@ $$
 $$
 
 $$
-\swrt[n]{\frac{a}{b}}
+\sqrt[n]{\frac{a}{b}}
 $$
