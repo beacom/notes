@@ -96,4 +96,6 @@ $$
 \sqrt[m]{\sqrt[n]{a}} = \sqrt[mn]{a}
 $$
 
-If _n_ is and odd integer, then $`\sqrt[n]{-a} = -\sqrt[n]{a}`$
+$$
+\text{if _n_ is an odd integer, then} \sqrt[n]{-a} = -\sqrt[n]{a}
+$$
