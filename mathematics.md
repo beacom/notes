@@ -87,3 +87,7 @@ $$
 $$
 \sqrt[n]{ab} = \sqrt[n]{a}\sqrt[n]{b}
 $$
+
+$$
+\swrt[n]{\frac{a}{b}}
+$$
