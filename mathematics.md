@@ -77,3 +77,9 @@ $$
 $$
 (a^{m})^{n} = a^{mn}
 $$
+
+#### Properties of Radicals
+
+$$
+\sqrt[mn]{a^{m}} = \sqrt[n]{a}
+$$
