@@ -97,5 +97,5 @@ $$
 $$
 
 $$
-\text{if n is an odd integer} \sqrt[n]{-a} = -\sqrt[n]{a}
+\text{if n is an odd integer} \quad \sqrt[n]{-a} = -\sqrt[n]{a}
 $$
