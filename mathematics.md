@@ -83,3 +83,7 @@ $$
 $$
 \sqrt[mn]{a^{m}} = \sqrt[n]{a}
 $$
+
+$$
+\sqrt[n]{ab} = \sqrt[n]{a}\sqrt[n]{b}
+$$
