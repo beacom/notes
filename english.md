@@ -7,6 +7,11 @@ A collection of interesting English words encountered while reading and their de
 ### abstruse
 difficult to understand
 
+## B
+
+### bathos
+unintended juxtaposition of the exalted and the commonplace, anticlimax
+
 ## E
 
 ### epiphenomenon
