@@ -39,6 +39,9 @@ a small sin
 
 ## S
 
+### solipsism
+extreme self centeredness, theory that the self is all that exists
+
 ### sophistry
 a plausible but misleading or bogus argument
 
