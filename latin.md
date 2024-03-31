@@ -10,6 +10,9 @@ indolence, sloth
 ### succedaneum
 killed as a substitute or addition, exposed to a danger in place of another, substitute
 
+### sui generis
+of its own kind, in a class by itself
+
 ## U
 
 ### uno animo
