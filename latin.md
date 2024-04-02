@@ -17,3 +17,8 @@ of its own kind, in a class by itself
 
 ### uno animo
 with one mind, unanimous
+
+## V
+
+### vae victis
+woe to the vanquished
