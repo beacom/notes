@@ -12,6 +12,9 @@ difficult to understand
 ### bathos
 unintended juxtaposition of the exalted and the commonplace, anticlimax
 
+### bildungsroman
+a literary genre that focuses on the psychological and moral growth of the protagonist from childhood to adulthood
+
 ## E
 
 ### epiphenomenon
