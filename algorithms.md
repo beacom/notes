@@ -1,5 +1,5 @@
 # Algorithms
-An alorithm is a well defined computational procedure.
+An algorithm is a well defined computational procedure.
 ## Analysis
 ### Running Time
 The running time of an algorithm is the number of primitive operations required to execute the algorithm.
