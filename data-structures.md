@@ -38,7 +38,7 @@ An infintie set is countably infinite if its elements can be put into a one-to-o
 
 ##### Uncountable
 
-An infinite set is uncountable if its elements cannot be put into a one-tp-one mapping to the natural number.
+An infinite set is uncountable if its elements cannot be put into a one-to-one mapping to the natural numbers.
 
 ### Cartesian Product
 
